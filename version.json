@@ -1,8 +1,8 @@
 {
-  "version": "4.5.4",
+  "version": "4.6.0",
   "url": "https://github.com/kthohuuhoang-gif/magic-tree-update/releases/download/magic-latest-update/MagicTree_Update.zip",
-  "sha256": "f4f79de8269b595b360291e1c435a53760f73094477bf64eb18cccb0415ee918",
+  "sha256": "4e7d8abfe5f64a0e47f8aa35979333bd5e02f7ba3046e35fd060d5ac4b98a5a4",
   "date": "2026-05-27",
-  "size": 1113463,
-  "notes": "Update ngon ngu tieng ANh. De nghi khoi dong lai 3ds Max"
+  "size": 1199203,
+  "notes": "Ban update support Chaos Cosmos. Proxy Corona va Vray"
 }
