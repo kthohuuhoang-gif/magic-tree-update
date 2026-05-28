@@ -1,8 +1,8 @@
 {
-  "version": "4.6.5",
+  "version": "4.6.6",
   "url": "https://github.com/kthohuuhoang-gif/magic-tree-update/releases/download/magic-latest-update/MagicTree_Update.zip",
-  "sha256": "be9f1384c9915ebe9129d8867d9df38aedfe8f84cca78e4748c138a1438ee593",
+  "sha256": "1bbc0bca8a4bf65dfdd5247abd192db95089d44ad09054be0479191ef0852d32",
   "date": "2026-05-28",
-  "size": 1287053,
-  "notes": "Bo sung tinh chinh bien do song Sin, Cos giua cac chu ky. Bo sung dieu chinh Do nhieu dong gio o Tinh chinh chung"
+  "size": 1286839,
+  "notes": "fix Bug update lap lai. Khuyen nghi tat Max mo lai sau cap nhat"
 }
