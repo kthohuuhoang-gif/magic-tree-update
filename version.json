@@ -1,8 +1,8 @@
 {
-  "version": "4.6.6",
+  "version": "4.8.2",
   "url": "https://github.com/kthohuuhoang-gif/magic-tree-update/releases/download/magic-latest-update/MagicTree_Update.zip",
-  "sha256": "1bbc0bca8a4bf65dfdd5247abd192db95089d44ad09054be0479191ef0852d32",
-  "date": "2026-05-28",
-  "size": 1286839,
-  "notes": "fix Bug update lap lai. Khuyen nghi tat Max mo lai sau cap nhat"
+  "sha256": "056677ccff459f39b8332063986ec9edddf14ad38b0042f51909ecfa8f4caeab",
+  "date": "2026-05-31",
+  "size": 1544308,
+  "notes": "Ban nang cap auto nhan dien Type Cay de ap dung muc do Gio nhanh chong. Bo sung do chao nghieng trong setting Tan la. Bo sung Bang mo rong (beta)."
 }
