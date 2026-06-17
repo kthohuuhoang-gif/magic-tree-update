@@ -1,8 +1,8 @@
 {
-  "version": "5.0.7",
+  "version": "5.1.0",
   "url": "https://github.com/kthohuuhoang-gif/magic-tree-update/releases/download/magic-latest-update/MagicTree_Update.zip",
-  "sha256": "bc65ec8530063cb10d3e4ddb33362c68264aa908a4e3c15b918819d4d4f315fd",
+  "sha256": "da4e637435aa5572a84e29ff9701a5caa550ce2713e874cb4edabb16ca53eb00",
   "date": "2026-06-17",
-  "size": 2197215,
-  "notes": "Khoi phuc lop chuyen dong Tan cay"
+  "size": 2227897,
+  "notes": "Update giao dien, khu giat cuc bo khi nang Frame"
 }
