@@ -1,8 +1,8 @@
 {
-  "version": "5.2.2",
+  "version": "5.5.0",
   "url": "https://github.com/kthohuuhoang-gif/magic-tree-update/releases/download/magic-latest-update/MagicTree_Update.zip",
-  "sha256": "37cd3fce3486be385da7daf162a1751acd48a7d87215a41ea2b06ab8aaa2edeb",
-  "date": "2026-06-26",
-  "size": 2293851,
-  "notes": "Dong bo Design he sinh thai Magic"
+  "sha256": "97401eff81cedff4c7bffcb14d9cf8702c32ae6cc37558a073686f9fcb81eefe",
+  "date": "2026-08-11",
+  "size": 3252245,
+  "notes": "Update UI"
 }
