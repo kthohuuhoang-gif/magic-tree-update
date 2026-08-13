@@ -1,8 +1,8 @@
 {
-  "version": "5.5.1",
+  "version": "5.5.2",
   "url": "https://github.com/kthohuuhoang-gif/magic-tree-update/releases/download/magic-latest-update/MagicTree_Update.zip",
-  "sha256": "0c4bf68d0ef0a8a49614a08276cd2416b672430dad2f404bf80855f1b3c69349",
-  "date": "2026-08-12",
-  "size": 3252917,
-  "notes": "Update Ui"
+  "sha256": "7daa5ed70867c6a5e4c1bbb80c75ed9485143e0e3f21b1b3c2d1557d84dffb5d",
+  "date": "2026-08-13",
+  "size": 3286568,
+  "notes": "Support 2027"
 }
